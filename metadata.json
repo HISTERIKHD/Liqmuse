@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Music Player",
+  "description": "A beautiful single-page music player using modern Material 3 and Liquid Glass styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
